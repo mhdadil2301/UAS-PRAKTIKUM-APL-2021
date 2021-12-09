@@ -23,7 +23,7 @@ B. Design Pattern
    2. Decorator Pattern :
       
       -Object dari Decoratornya adalah Maintenance rutin bulanan pesawat yang ditambahi dengan perawatan Cabin Passenger 
-       dan Ruang Cocpit.
+       dan Ruang Cockpit.
 
 
 C. Class Program
