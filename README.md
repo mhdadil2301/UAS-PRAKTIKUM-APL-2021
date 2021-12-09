@@ -13,6 +13,7 @@ akan mendapatkan notifikasi dari staf hangar bahwa akan ada tugas setiap kali ad
 yang masuk ke dalam Hangar untuk melakukan perawatan rutin tiap bulannya. Jenis perawatan/perbaikan pesawat terdiri atas banyak komponen pada setiap bagian pesawat dan biasanya selalu ditambah perawatan cabin penumpang dan ruang cockpit. 
 
 B. Design Pattern
+   Design Pattern yang saya ambil adalah Observer Pattern dan Decorator Pattern.
    1. Observer Pattern :
       
       -Observable (Subject) adalah Hangar/tempat perawatan pesawat
