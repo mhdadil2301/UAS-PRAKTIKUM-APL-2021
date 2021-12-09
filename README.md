@@ -12,7 +12,9 @@ Aircraft Maintenance atau Perawatan/perbaikan Pesawat. Pada kasus ini Engineer(t
 akan mendapatkan notifikasi dari staf hangar bahwa akan ada tugas setiap kali ada pesawat 
 yang masuk ke dalam Hangar untuk melakukan perawatan rutin tiap bulannya. Jenis perawatan/perbaikan pesawat terdiri atas banyak komponen pada setiap bagian pesawat dan biasanya selalu ditambah perawatan cabin penumpang dan ruang cockpit. 
 
+
 B. Design Pattern
+   
    Design Pattern yang saya ambil adalah Observer Pattern dan Decorator Pattern.
    1. Observer Pattern :
       
@@ -24,6 +26,7 @@ B. Design Pattern
       
       -Object dari Decoratornya adalah Maintenance rutin bulanan pesawat yang ditambahi dengan perawatan Cabin Passenger 
        dan Ruang Cocpit.
+
 
 C. Class Program
 
@@ -45,6 +48,7 @@ C. Class Program
    > Main class :
    
      -Main.java
+
 
 D. RUN
 1. Clone Repository
