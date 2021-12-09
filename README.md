@@ -8,7 +8,7 @@ JUDUL : AIRCRAFT MAINTENANCE
 
 A. Deskripsi Singkat :
 
-Aircraft Maintenance atau Perawatan Pesawat. Pada kasus ini Engineer(teknisi) akan mendapatkan notifikasi dari staf hangar bahwa akan ada tugas setiap kali ada pesawat yang masuk ke dalam Hangar untuk melakukan perawatan rutin tiap bulannya. Jenis perawatan/perbaikan pesawat terdiri atas banyak komponen pada setiap bagian pesawat dan biasanya selalu ditambah perawatan cabin penumpang dan ruang cockpit. 
+Aircraft Maintenance atau Perawatan Pesawat. Pada kasus ini Engineer(teknisi) akan mendapatkan notifikasi dari staf Hangar bahwa akan ada tugas setiap kali ada pesawat yang masuk ke dalam Hangar untuk melakukan perawatan rutin tiap bulannya. Jenis perawatan/perbaikan pesawat terdiri atas banyak komponen pada setiap bagian pesawat dan biasanya selalu ditambah perawatan cabin penumpang dan ruang cockpit. 
 
 
 B. Design Pattern
